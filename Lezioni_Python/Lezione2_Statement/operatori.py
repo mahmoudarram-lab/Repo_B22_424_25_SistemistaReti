@@ -1,1 +1,0 @@
-# Questi sono ggli operatori
