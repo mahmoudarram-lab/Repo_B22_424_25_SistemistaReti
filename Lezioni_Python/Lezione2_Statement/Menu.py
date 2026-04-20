@@ -12,13 +12,12 @@ while scelta != 4:
     print("4. ESCI")
 
     scelta = int(input("Inserisici un numero per scegliere: \n"))
-
     if scelta == 1:
         print("Hai scelto di giocare ai dadi")
         uscitaDadi = False
         while not uscitaDadi:
             facce = int(input("Quante facce hanno i tuoi dadi ?"))
-            
+
             dado1 = random.randint(1, facce)
             dado2 = random.randint(1, facce)
 
