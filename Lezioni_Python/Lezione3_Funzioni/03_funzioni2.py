@@ -1,6 +1,6 @@
 def descrivi_persona(nome, eta, citta):
     print(f"Mi chiamo {nome}, ho {eta} anni e vivo a {citta}")
-
+#test
 
 # descrivi_persona("Napoli", "Dario", 36) #La posizione dei parametri è fondamentale
 
